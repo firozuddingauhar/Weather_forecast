@@ -1,3 +1,5 @@
+Description: API Usage: use of open weather Map's API key generated through their website to request the weather condition of a given city. Copilot suggested to request.get() method to fetch the data and to convert it into a jason file Data Parsing: The contents of the jason file is taken into the main list and from that the individual consitions like temperature, pressure and description are stored in different variable which are then printed. Copilot assisted by helping to parse the jason file in a organised manner .
 
+How the program work: You need to install the requests package of the python by pip install requests. Our API key is already generated in the file. Open the file in Command Line and give it a city name, it returns and weather condition.
 ![Screenshot 2023-06-24 131844](https://github.com/firozuddingauhar/Weather_forecast/assets/124498500/0b21f237-b5f1-45a5-a302-8eb7df909ea5)
 ![Screenshot 2023-06-24 132142](https://github.com/firozuddingauhar/Weather_forecast/assets/124498500/f58ca8a0-0e44-4058-8ece-7f39fce91b74)
